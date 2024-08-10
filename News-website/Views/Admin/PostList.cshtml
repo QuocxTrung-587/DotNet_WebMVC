@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/admin.cshtml";
+
+}
+
+@model List<News_website.Models.Post>
+<h1>Quản lý tin tức</h1>
+<a asp-action="Create" class="btn btn-primary">Thêm tin tức</a>
+<div class="container mt-5">
+    
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tiêu đề</th>
+                <th>Tác giả</th>
+                <th>Mô tả</th>
+                <th>Hình ảnh</th>
+                <th>Danh mục</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Title</td>
+                    <td>@product.Author</td>
+                    <td>@product.Description</td>
+                    <td>@product.Image</td>
+                    <td>
+                        @if (product.Category != null)
+                        {
+                            @product.Category.Name
+                        }
+                        else
+                        {
+                            @("Category Not Set")
+                        }
+                    </td>
+
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

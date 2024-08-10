@@ -1,0 +1,122 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_MenuLayout.cshtml";
+
+    var categories = ViewBag.Categories as SelectList;
+   
+}
+@model Post
+
+<head>
+ 
+    <link href="~/css/postdetail.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css'>
+
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.bundle.min.js'></script>
+</head>
+
+<div class="container pb50">
+    <div class="row">
+        <div class="col-md-9 mb40">
+            <article>
+
+                
+                <div class="post-content">
+                    <img src="@Model.Image" alt="" class="img-fluid mb30 img-match-container">
+                    <h2>@Model.Title</h2>
+                    <ul class="post-meta list-inline">
+                        <li class="list-inline-item">
+                            <i class="fa fa-user-circle-o"></i> <a href="#">@Model.Author</a>
+                        </li>
+                         <li class="list-inline-item">
+                            <i class="fa fa-calendar-o"></i> <a href="#">@Model.Category.Name</a>
+                        </li>
+                        
+                    </ul>
+                    <p style="font-size:22px; text-align:justify">@Model.Description   </p> 
+         
+                    
+                    <ul class="list-inline share-buttons">
+                        <li class="list-inline-item">Share Post:</li>
+                        <li class="list-inline-item">
+                            <a href="#" class="social-icon-sm si-dark si-colored-facebook si-gray-round">
+                                <i class="fa fa-facebook"></i>
+                              
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" class="social-icon-sm si-dark si-colored-twitter si-gray-round">
+                                <i class="fa fa-twitter"></i>
+                               
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="#" class="social-icon-sm si-dark si-colored-linkedin si-gray-round">
+                                <i class="fa fa-linkedin"></i>
+                                
+                            </a>
+                        </li>
+                    </ul>
+                    
+                </div>
+            </article>
+            <!-- post article-->
+
+        </div>
+        <div class="col-md-3 mb40">
+            
+            <!--/col-->
+            <div class="mb40">
+                <h4 class="sidebar-title">DANH MỤC</h4>
+                <ul class="list-unstyled categories">
+                    @foreach (var item in categories)
+                    {
+                        <li><a href="#">@item.Text</a></li>
+                    }           
+                   
+                </ul>
+            </div>
+            <!--/col-->
+            <div>
+                <h4 class="sidebar-title">TIN TỨC KHÁC</h4>
+                <ul class="list-unstyled">
+                    <li class="media  my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="https://cdn.bongdaplus.vn/Assets/Media/2023/11/30/97/andre-onana.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1">
+                                <a href="#">
+                                    Onana giống như một ‘cú lừa’ đối với MU
+                                </a>
+                            </h5> 
+                        </div>
+                    </li>
+                    <li class="media  my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="https://cdn.bongdaplus.vn/Assets/Media/2023/11/30/41/Garnacho.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="#">Garnacho ăn mừng thái quá bị thủ môn Galatasaray dằn mặt</a></h5> 
+                        </div>
+                    </li>
+                    <li class="media  my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="https://cdn.bongdaplus.vn/Assets/Media/2023/11/30/66/ten-hag.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="#">Ten Hag vẫn hài lòng dù MU hoà tức tưởi</a></h5> 
+                        </div>
+                    </li>
+                    <li class="media  my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="https://cdn.bongdaplus.vn/Assets/Media/2023/11/30/8/mb-1701267556-212210.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="#">Liverpool giờ sẵn sàng bán Salah để dồn tiền mua Mbappe</a></h5> 
+                        </div>
+                    </li>
+                    <li class="media  my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="https://cdn.bongdaplus.vn/Assets/Media/2023/11/30/8/skysports-salah-live-01.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="#">Liverpool chiến thắng nhờ ai?</a></h5> 
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,4 @@
+- Thay kết nối SQL Server trong appsetting
+- Bật console chạy lệnh dotnet ef database update --project News-website
+- Tài khoản admin: Admin P@ssw0rd
+- Tài khoản user: đăng ký

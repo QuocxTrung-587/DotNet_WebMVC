@@ -1,0 +1,380 @@
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfoInputs.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfo.cs
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CoreCompileInputs.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cs
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.csproj.AssemblyReference.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\appsettings.json
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.staticwebassets.runtime.json
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.exe
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.deps.json
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.runtimeconfig.json
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\News-website.pdb
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.News-website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.build.News-website.props
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.News-website.props
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.News-website.props
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\scopedcss\bundle\News-website.styles.css
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\scopedcss\projectbundle\News-website.bundle.scp.css
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CopyComplete
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\refint\News-website.dll
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.pdb
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\News-website.genruntimeconfig.cache
+C:\Users\vovan\Documents\Github\News-website\News-website\obj\Debug\net6.0\ref\News-website.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.staticwebassets.runtime.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.exe
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.deps.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\News-website.pdb
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.News-website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.build.News-website.props
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.News-website.props
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.News-website.props
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\scopedcss\bundle\News-website.styles.css
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\scopedcss\projectbundle\News-website.bundle.scp.css
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CopyComplete
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\refint\News-website.dll
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.pdb
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\News-website.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\News-website\News-website\obj\Debug\net6.0\ref\News-website.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\appsettings.Development.json
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\appsettings.json
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.staticwebassets.runtime.json
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.exe
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.deps.json
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.runtimeconfig.json
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\News-website.pdb
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Azure.Core.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Azure.Identity.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\EntityFramework.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Humanizer.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.CodeDom.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Memory.Data.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Text.Json.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\HK5\Dot NET\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.csproj.AssemblyReference.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.GeneratedMSBuildEditorConfig.editorconfig
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfoInputs.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfo.cs
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CoreCompileInputs.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.MvcApplicationPartsAssemblyInfo.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cs
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.News-website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.build.News-website.props
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.News-website.props
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.News-website.props
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets.pack.json
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets.build.json
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\staticwebassets.development.json
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\scopedcss\bundle\News-website.styles.css
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\scopedcss\projectbundle\News-website.bundle.scp.css
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CopyComplete
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.dll
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\refint\News-website.dll
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.pdb
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\News-website.genruntimeconfig.cache
+C:\HK5\Dot NET\News-website\News-website\obj\Debug\net6.0\ref\News-website.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\News-website\News-website\bin\Debug\net6.0\appsettings.json
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.staticwebassets.runtime.json
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.exe
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.deps.json
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.runtimeconfig.json
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\News-website.pdb
+D:\Project\News-website\News-website\bin\Debug\net6.0\Azure.Core.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\EntityFramework.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Humanizer.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project\News-website\News-website\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.csproj.AssemblyReference.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfoInputs.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.AssemblyInfo.cs
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CoreCompileInputs.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.RazorAssemblyInfo.cs
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.News-website.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.build.News-website.props
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.News-website.props
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.News-website.props
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\News-website\News-website\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\News-website\News-website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\News-website\News-website\obj\Debug\net6.0\scopedcss\bundle\News-website.styles.css
+D:\Project\News-website\News-website\obj\Debug\net6.0\scopedcss\projectbundle\News-website.bundle.scp.css
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.csproj.CopyComplete
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.dll
+D:\Project\News-website\News-website\obj\Debug\net6.0\refint\News-website.dll
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.pdb
+D:\Project\News-website\News-website\obj\Debug\net6.0\News-website.genruntimeconfig.cache
+D:\Project\News-website\News-website\obj\Debug\net6.0\ref\News-website.dll

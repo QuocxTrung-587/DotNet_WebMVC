@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_MenuLayout.cshtml";
+
+}
+
+@model List<Post>
+<head>
+    <link href="~/css/index.css" rel="stylesheet" />
+</head>
+
+<div class="container mt-3">
+    <form asp-action="Search" method="get" class="form-inline">
+        <div class="input-group">
+            @* <label for="keyword" class="sr-only">Tìm kiếm:</label> *@
+            <input type="text" name="keyword" id="keyword" class="form-control" placeholder="Nhập từ khóa...">
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+            </div>
+        </div>
+    </form>
+</div>
+<br />
+
+<div class="row">
+    @foreach( var post in Model)
+    {
+        <div class="col-md-6 col-sm-12">
+            <div class="product-grid" style="height: 100% !important;">
+                <div class="product-image">
+                    <a asp-action="PostDetail" asp-route-id="@post.Id" class="image">
+                        <img class="img-1" src="@post.Image">
+                    </a>
+                </div>
+                <div class="product-content">
+                    <div class="price">@post.Category.Name</div>
+                    <h3 class="title ">
+                        <a asp-action="PostDetail" asp-route-id="@post.Id">@post.Title</a>
+                    </h3>
+                </div>
+            </div>
+        </div>
+    }
+  
+</div>
